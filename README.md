@@ -13,6 +13,7 @@ Perform the following steps to run the container locally:
        III. processed_images : All identified images are stored here.
 
 2. Run the following docker command:
+   
 `docker run -d \ 
 -p 5000:5000 \ 
 --name facerecognition \ 
