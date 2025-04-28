@@ -1,6 +1,6 @@
 # face_recognition
 
-Docker image: https://hub.docker.com/repository/docker/tkdutta/facerecognition/general
+Docker image: tkdutta/facerecognition
 
 <br>
 
