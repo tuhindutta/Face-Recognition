@@ -71,5 +71,8 @@ http://localhost:5000
 - Allow dynamic model selection.
 - Integrate drag-and-drop UI.
 
+## 🤝 Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes. For more details and updates, visit the [GitHub Repository](https://github.com/tuhindutta/Face-Recognition).
+
 ## 🚀 Demo:
 <img width="500" alt="image" src="https://github.com/user-attachments/assets/02ae7f7e-d10c-4e75-ab4b-c99e035f8dfe" />
