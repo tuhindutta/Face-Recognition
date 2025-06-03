@@ -1,4 +1,4 @@
-# 🧠 Face Recognition Web App
+# 👤🔍 Face Recognition Web App
 This is a Flask-based web application that allows you to perform face verification using DeepFace on user-uploaded or preloaded target images, comparing them against reference images.
 
 ## 📁 Project Structure
